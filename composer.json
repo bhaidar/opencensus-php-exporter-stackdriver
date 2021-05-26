@@ -13,12 +13,6 @@
             "url":  "git@github.com:bhaidar/opencensus-php.git"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url":  "git@github.com:bhaidar/opencensus-php.git"
-        }
-    ],
     "require-dev": {
         "phpunit/phpunit": "^5.0",
         "squizlabs/php_codesniffer": "2.*"
